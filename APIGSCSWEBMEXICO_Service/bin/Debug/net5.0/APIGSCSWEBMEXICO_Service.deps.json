@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "APIGSCSWEBMEXICO_Service/1.0.0": {
+        "runtime": {
+          "APIGSCSWEBMEXICO_Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APIGSCSWEBMEXICO_Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\bin\Debug\net5.0\APIGSCSWEBMEXICO_Service.deps.json
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\bin\Debug\net5.0\APIGSCSWEBMEXICO_Service.dll
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\bin\Debug\net5.0\ref\APIGSCSWEBMEXICO_Service.dll
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\bin\Debug\net5.0\APIGSCSWEBMEXICO_Service.pdb
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\obj\Debug\net5.0\APIGSCSWEBMEXICO_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\obj\Debug\net5.0\APIGSCSWEBMEXICO_Service.AssemblyInfoInputs.cache
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\obj\Debug\net5.0\APIGSCSWEBMEXICO_Service.AssemblyInfo.cs
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\obj\Debug\net5.0\APIGSCSWEBMEXICO_Service.csproj.CoreCompileInputs.cache
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\obj\Debug\net5.0\APIGSCSWEBMEXICO_Service.dll
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\obj\Debug\net5.0\ref\APIGSCSWEBMEXICO_Service.dll
+D:\Repositórios\APIGSCSWEBMEXICO\APIGSCSWEBMEXICO_Service\obj\Debug\net5.0\APIGSCSWEBMEXICO_Service.pdb
